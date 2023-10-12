@@ -6,7 +6,7 @@ practice git command
 2. git config --global user.name [이름]
 3. git config --global user.email [메일]
 4. git init : git 저장소가 되길 원하는 폴더에서 입력
-5. git remote add origin http://github.com/~~
+5. git remote add (remote repository의 이름) (원격 저장소 github URL)
 6. git pull origin main
 7. git remote rm origin : remote 설정이 잘못 되어 있으면 삭제
 
@@ -16,9 +16,8 @@ practice git command
 3. git add -A : 수정된 파일 전부를 스테이지 영역으로 추가
 4. git status : 현재 스테이지 영역 확인
 5. git commit -m "feat: README.md update"
-6. git remote add (remote repository의 이름) (원격 저장소 github URL)
-7. git push (remote repository의 이름) (브랜치 이름)
-8. git log
+6. git push (remote repository의 이름) (브랜치 이름)
+7. git log
 
 ## [ex2] 브랜치 기본 명령어
 1. git branch (생성하려는 브랜치명) (분기해 나올 브랜치명)
