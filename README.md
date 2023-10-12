@@ -27,7 +27,8 @@ practice git command
 ## [ex2] 브랜치 기본 명령어
 1. git branch (생성하려는 브랜치명) (분기해 나올 브랜치명)
 2. git branch -m (기존 브랜치명) (새로운 브랜치명)
-3. git checkout (이동하려는 브랜치 명)
+3. git checkout (이동하려는 브랜치명)
+   git switch (이동하려는 브랜치명)
 4. git checkout -b (생성하고 바로 이동하려는 브랜치명)
 5. git branch -v : 현재 등록된 브랜치 확인
 6. git branch --merged / git branch --no-merged
