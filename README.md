@@ -1,6 +1,12 @@
 # git 명령어 연습 23/10/12
 
 practice git command
+## [ex0] linux git 설정
+1. git 설치
+2. git config --global user.name [이름]
+3. git config --global user.email [메일]
+4. git init : git 저장소가 되길 원하는 폴더에서 입력
+5. git remote add origin http://github.com/~~
 
 ## [ex1] 기본 동작
 1. git clone (git 저장소 URL) / git pull
