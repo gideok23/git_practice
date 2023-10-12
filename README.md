@@ -7,6 +7,7 @@ practice git command
 3. git config --global user.email [메일]
 4. git init : git 저장소가 되길 원하는 폴더에서 입력
 5. git remote add origin http://github.com/~~
+6. git remote rm origin : remote 설정이 잘못 되어 있으면 삭제
 
 ## [ex1] 기본 동작
 1. git clone (git 저장소 URL) / git pull
