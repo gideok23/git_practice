@@ -45,4 +45,5 @@ git push origin --delete (삭제하려는 브랜치명)
 - git stash : 브랜치 이동 시 commit 하지 않고 잠시 저장
 1. echo "Hello, Git!" > README.md
 2. git stash
+(미완성)
 ```
