@@ -1,7 +1,7 @@
 # git 명령어 연습 23/10/12
 
 practice git command
-
+111
 ## [ex0] linux git 설정
 ```
 1. git 설치
